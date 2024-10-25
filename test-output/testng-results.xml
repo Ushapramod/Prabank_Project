@@ -2,20 +2,20 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-25T19:45:15 IST" name="Default suite" finished-at="2024-10-25T19:46:15 IST" duration-ms="60239">
+  <suite started-at="2024-10-25T23:23:20 IST" name="Default suite" finished-at="2024-10-25T23:24:16 IST" duration-ms="55746">
     <groups>
     </groups>
-    <test started-at="2024-10-25T19:45:15 IST" name="Default test" finished-at="2024-10-25T19:46:15 IST" duration-ms="60239">
+    <test started-at="2024-10-25T23:23:20 IST" name="Default test" finished-at="2024-10-25T23:24:16 IST" duration-ms="55746">
       <class name="com.parabank.tests.RegistrationPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T19:45:15 IST" name="setUp" finished-at="2024-10-25T19:45:29 IST" duration-ms="14141" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T23:23:20 IST" name="setUp" finished-at="2024-10-25T23:23:30 IST" duration-ms="9416" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="registerTheCustomer()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T19:45:29 IST" name="registerTheCustomer" finished-at="2024-10-25T19:46:13 IST" duration-ms="43908" status="PASS">
+        <test-method signature="registerTheCustomer()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T23:23:30 IST" name="registerTheCustomer" finished-at="2024-10-25T23:24:14 IST" duration-ms="44190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerTheCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T19:46:13 IST" name="tearDown" finished-at="2024-10-25T19:46:15 IST" duration-ms="2109" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.tests.RegistrationPageTest@644baf4a]" started-at="2024-10-25T23:24:14 IST" name="tearDown" finished-at="2024-10-25T23:24:16 IST" duration-ms="2064" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

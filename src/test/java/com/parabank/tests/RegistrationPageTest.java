@@ -60,6 +60,7 @@ public class RegistrationPageTest extends BaseClass {
     	
     	registrationPage.clickRegisterButton();
     Thread.sleep(3000);
+    System.out.println("I love you");
     	
     }
 }
